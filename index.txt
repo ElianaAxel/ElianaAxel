@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mi Página de Prueba</title>
+</head>
+<body>
+    <h1>¡Hola! Esta es mi página de prueba en GitHub Pages.</h1>
+    <p>Funciona perfectamente si ves esto en internet.</p>
+</body>
+</html>
